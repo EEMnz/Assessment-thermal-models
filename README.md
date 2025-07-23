@@ -12,5 +12,6 @@ Dependencies:
 	Sckit-learn v.1.5.2
 	Optuna v.4.3.0
  	Pandas v.2.2.3
+  	numdifftools v. 0.9.41
 
 
