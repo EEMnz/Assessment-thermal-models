@@ -2,7 +2,7 @@
 
 
 	-Regression using TPE and CMA-ES optimization framework.
-	-Kinetic model assesment by stratified cross validation.
+	-Kinetic model assessment by stratified cross validation.
 
 Dependencies:
 	
